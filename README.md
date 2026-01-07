@@ -40,5 +40,29 @@ SkyGlass Meteo è un'applicazione web moderna e sofisticata per il monitoraggio 
 3. **Generazione AI**: Una volta ricevuti i dati, il contesto (temperatura + descrizione) viene inviato a Gemini con un prompt specifico per garantire qualità grammaticale e concisione (max 12 parole).
 4. **Rendering**: Lo stato di React viene aggiornato, innescando le animazioni di transizione (fadeIn) e il cambio di immagine di sfondo.
 
+Certamente! Non preoccuparti, capita a tutti di dimenticare un dettaglio dell'ultimo minuto. È un'ottima idea aggiungerlo per rendere il tuo progetto professionale e facile da usare per gli altri.
+
+Ecco il testo esatto da inserire nel tuo **README.md** e la struttura del file da far copiare. Divideremo il lavoro in due parti: la spiegazione per l'utente e il codice pronto all'uso.
+
+---
+
+> ### 🔑 Configurazione API Key 
+
+Per eseguire il progetto sul tuo computer, segui questi passaggi per configurare correttamente le chiavi di accesso (API Keys):
+
+1. 
+**Copia il file di esempio**: Individua il file `constants.example.ts` nella cartella principale. 
+
+
+2. 
+**Rinomina il file**: Crea una copia del file e chiamala esattamente `constants.ts`. 
+
+
+3. 
+**Inserisci la tua chiave Meteo**: Apri il nuovo file `constants.ts` e sostituisci il testo `'INSERIRE_QUI_LA_TUA_CHIAVE_OPENWEATHER'` con la tua API Key personale di OpenWeatherMap. 
+
+
+> 
+
 ---
 *Progetto sviluppato con focus su estetica, accessibilità e innovazione tecnologica da Ilenia Unida.*
